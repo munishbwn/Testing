@@ -3,7 +3,7 @@ package dummy;
 public class Class1 {
 	
 	int age;
-	int rollnum;
+	int rolln;
 	
 	public void disp()
 		

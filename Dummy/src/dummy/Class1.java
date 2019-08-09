@@ -3,7 +3,7 @@ package dummy;
 public class Class1 {
 	
 	int age;
-	int rolln;
+	int roll;
 	
 	public void disp()
 		
@@ -20,10 +20,10 @@ public class Class1 {
 		Class1 c1 =new Class1();
 		
 		c1.age=18;
-		c1.rollnum =222;
+		c1.roll =222;
 		
 		System.out.println(c1.age);
-		System.out.println(c1.rollnum);
+		System.out.println(c1.roll);
 		
 		c1.disp();
 		c1.disp1();
